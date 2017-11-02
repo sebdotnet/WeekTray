@@ -4,7 +4,8 @@
 # WeekTray
 
 Provides a little tray icon for Windows which shows the current calendar week.  
-A hex color code (e.g. #85adad) for the text color might be passed as argument. Default color is white.  
+A hex color code (e.g. #85adad) for the text color might be passed as argument.  
+Default color is white.  
 
 
 ## Preview
@@ -18,7 +19,7 @@ Create a shortcut to WeekTray.exe in `%APPDATA%\Microsoft\Windows\Start Menu\Pro
 
 
 ## Color
-If you want to change the text color, open the properties of this shortcut and change value of `Target` to `[FOLDER_OF_WEEK_TRAY]\WeekTray.exe" #85adad`.  
+To change the text color, alter the value of `Target` to `[FOLDER_OF_WEEK_TRAY]\WeekTray.exe" #85adad`.  
 *Hint*: Use [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp) to get the hex code of your desired color.
 
 
