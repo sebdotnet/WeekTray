@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("WeekTray")]
-[assembly: AssemblyDescription("Shows the current calendar week as tray icon")]
+[assembly: AssemblyDescription("Shows the current calendar week as notification icon")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("setdotnet")]
 [assembly: AssemblyProduct("WeekTray")]
