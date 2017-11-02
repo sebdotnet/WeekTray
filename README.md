@@ -1,38 +1,27 @@
+[![Build Status](https://travis-ci.org/sebdotnet/WeekTray.svg?branch=master)](https://travis-ci.org/sebdotnet/WeekTray)
+[![Download Stats](https://img.shields.io/sourceforge/dt/weektray.svg)](https://sourceforge.net/projects/weektray/files/latest/download)
+
 # WeekTray
 
-Provides a little tray icon for Windows which shows the current calendar week.
+Provides a little tray icon for Windows which shows the current calendar week.  
+A hex color code (e.g. #85adad) for the text color might be passed as argument. Default color is white.  
+
+
+## Preview
+
+![weektray_preview](http://sebdotnet.bplaced.net/weektray/weektray_preview.png)
+
+
+## Installation tip
+
+Create a shortcut to WeekTray.exe in `%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup` to have WeekTray icon running on startup.
 
 
 ## Color
+If you want to change the text color, open the properties of this shortcut and change value of `Target` to `[FOLDER_OF_WEEK_TRAY]\WeekTray.exe" #85adad`.  
+*Hint*: Use [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp) to get the hex code of your desired color.
 
-A hex color code (e.g. #85adad) for the text color might be passed as argument. Default color is white.
 
-
-## Usage
-
-Create a shortcut to WeekTray.exe in %APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup
-
-If you want to change the text color, open the properties of this shortcut and change value of 'Target' to 
-
-```powershell
-"[FOLDER_OF_WEEK_TRAY]\WeekTray.exe" #85adad
-```
-
-## Screenshots
-
-### Shortcut location
-![weektray_shortcut_in_startup](http://sebdotnet.bplaced.net/weektray/weektray_shortcut_in_startup.png)
-
-### Default
-
-#### Preview
-![weektray_preview](http://sebdotnet.bplaced.net/weektray/weektray_preview.png)
-
-### Custom color
-
-#### Shortcut properties
-![weektray_shortcut_properties](http://sebdotnet.bplaced.net/weektray/weektray_shortcut_properties.png)
-
-#### Preview
-![weektray_preview_custom_color](http://sebdotnet.bplaced.net/weektray/weektray_preview_custom_color.png)
-
+## Download
+  
+[![Download WeekTray](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/weektray/files/latest/download)  
