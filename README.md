@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/sebdotnet/WeekTray.svg?branch=master)](https://travis-ci.org/sebdotnet/WeekTray)
+[![Build status AppVeyor](https://ci.appveyor.com/api/projects/status/vxx4ip40b8de9qt2?svg=true)](https://ci.appveyor.com/project/sebdotnet/weektray)
+[![Build Status Travis](https://travis-ci.org/sebdotnet/WeekTray.svg?branch=master)](https://travis-ci.org/sebdotnet/WeekTray)
 [![Download Stats](https://img.shields.io/sourceforge/dt/weektray.svg)](https://sourceforge.net/projects/weektray/files/latest/download)
 
 # WeekTray
