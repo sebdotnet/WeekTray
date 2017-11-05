@@ -11,19 +11,24 @@ Default color is white.
 
 ## Preview
 
-![weektray_preview](http://sebdotnet.bplaced.net/weektray/weektray_preview.png)
+![weektray_preview](http://sebdotnet.bplaced.net/weektray/weektray_preview.png)  
 
 
 ## Installation tip
 
-Create a shortcut to `WeekTray.exe` in `%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup` to have WeekTray icon running on startup.
+Create a shortcut to `WeekTray.exe` in `%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup` to have WeekTray icon running on startup.  
 
 
 ## Color
 To change the text color, alter the value of `Target` to `"[FOLDER_OF_WEEK_TRAY]\WeekTray.exe" #85adad`.  
-*Hint*: Use [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp) to get the hex code of your desired color.
+*Hint*: Use [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp) to get the hex code of your desired color.  
 
 
 ## Download
   
 [![Download WeekTray](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/weektray/files/latest/download)  
+
+
+## Donate
+  
+[![Coffee](http://sebdotnet.bplaced.net/misc/coffee.png)](https://ko-fi.com/K3K65B0H)
