@@ -16,13 +16,13 @@ Default color is white.
 
 ## Installation tip
 
-Create a shortcut to `WeekTray.exe` in 
-`%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup` 
+Create a shortcut to `WeekTray.exe` in  
+`%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup`  
 to have WeekTray icon running on startup.  
 
 
 ## Color
-To change the text color, alter the value of `Target` to 
+To change the text color, alter the value of `Target` to  
 `"[FOLDER_OF_WEEK_TRAY]\WeekTray.exe" #85adad`.  
 *Hint*: Use [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp) to get the hex code of your desired color.  
 
