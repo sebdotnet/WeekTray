@@ -11,7 +11,9 @@ Default color is white.
 
 ## Preview
 
-![weektray_preview](http://sebdotnet.bplaced.net/weektray/weektray_preview.png)  
+![without_weektray_preview](http://sebdotnet.bplaced.net/weektray/without_weektray.png) 
+ -> 
+ ![with_weektray_preview](http://sebdotnet.bplaced.net/weektray/with_weektray.png)  
 
 
 ## Installation tip
